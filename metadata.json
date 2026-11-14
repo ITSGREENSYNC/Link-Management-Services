@@ -1,0 +1,8 @@
+{
+  "name": "Link Management Services",
+  "description": "Luxury corporate travel and executive chauffeured transport with multi-currency billing, encrypted document storage, GDPR compliance, live push alerts, and offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
